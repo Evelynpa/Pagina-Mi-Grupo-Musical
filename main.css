@@ -1,0 +1,34 @@
+body{
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-size: 20px;
+}
+#logo{
+	height: 250px;
+	width: 250px;
+	border-radius: 200px 200px 200px 200px;
+	border: 0px solid #000000;
+}
+.bloqueCabecera{
+	background-color: #cc66ff;
+	border-radius: 13px 13px 13px 13px;
+	border: 0px solid #000000;
+}
+h1{
+color:#262626;
+}
+#footer{
+	background-image: url(footer.jpg);
+	background-repeat: no-repeat; 
+	background-size: 1330px 300px;
+	color: #ffffff;
+	border-radius: 13px 13px 13px 13px;
+	border: 5px double #cc66ff;
+	padding: 20px;
+}
+h2{
+	padding-bottom: 20px;
+}
+.rihannaImg{
+	border: 5px double #cc66ff;
+}
